@@ -1,0 +1,28 @@
+---
+title: "Applied Predictive Modeling - Chapter 3"
+classes: wide
+date: '2019-07-27'
+layout: single
+categories: blog R APM
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Currently I am working my way through [Applied Predictive Modeling](http://appliedpredictivemodeling.com/) by Max Kuhn and Kjell Johnson. I'm documenting my work on this mostly so I have a resource to look back through when I encounter similar problems in the future, but also as a way to keep pumping out Capital C Content. The focus of this will be recreating the computations section of each chapter, but I will likely try to produce the same results using a different method to ensure I am actually understanding it. I might even get bold and grab similar real world datasets to those used by the book and attempt similar analyses. 
+
+```{r cars}
+
+```
+
+## Including Plots
+
+
+
+```{r pressure, echo=FALSE}
+
+```
+
